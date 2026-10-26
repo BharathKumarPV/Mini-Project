@@ -2,7 +2,17 @@
 
 India's Agriculture Market, Connected.
 
-This repository contains the source code for KisanConnect, a full-stack app for mandi price tracking, market comparison, and a farmer-to-buyer marketplace.
+## Live Website
+
+**Visit KisanConnect:** https://kisanconnect-app.vercel.app/
+
+The web app is deployed on Vercel. You can open the site directly using the link above.
+
+> **Demo note:** The sign-in and registration options are currently prototype/demo functionality and may not work reliably. Authentication and account-related features are still being improved. Please do not use real or sensitive passwords on the demo site.
+
+## About
+
+KisanConnect is a full-stack app for mandi price tracking, market comparison, and a farmer-to-buyer marketplace.
 
 ## Stack
 - Frontend: React, Vite, TypeScript, Tailwind CSS
